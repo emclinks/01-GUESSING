@@ -1,2 +1,2 @@
 # 01-GUESSING
-Game Technology Class - Guessing Game
+Guessing Game created as the first project of G220: Game Technology class. Enjoy!
